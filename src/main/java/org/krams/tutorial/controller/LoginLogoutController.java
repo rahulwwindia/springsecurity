@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RequestParam;
 
 /**
  * Handles and retrieves the login or denied page depending on the URI template
+ * Test Sonia 
  */
 @Controller
 @RequestMapping("/auth")
